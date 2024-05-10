@@ -1,0 +1,180 @@
+{
+	"trails": [
+		{
+			"id": 0,
+			"name": "Prairie Pathway",
+			"address": "7000 N. Westnedge Avenue",
+			"length": "0.7/0.5",
+			"is_loop": true,
+			"difficulty": "Easy",
+			"description": "Easy walk through fields to a reconstructed prairie awash with color in summer and fall. Look for bluebirds and swallows at the nest boxes.",
+			"images": [ "0.jpg" ]
+
+		},
+		{
+			"id": 1,
+			"name": "Arboretum Loop",
+			"address": "7000 N. Westnedge Avenue",
+			"length": "0.5",
+			"is_loop": true,
+			"difficulty": "Easy",
+			"description": "Enjoy accessible pathways with favorites including the Hummingbird-Butterfly Garden, Sculpture Tour, and Nature’s Playground.",
+			"images": [ "1.jpg" ]
+
+		},
+		{
+			"id": 2,
+			"name": "Fern Valley",
+			"address": "7000 N. Westnedge Avenue",
+			"length": "0.8",
+			"is_loop": false,
+			"difficulty": "Moderate",
+			"description": "Steep descent to a vernal pool. Look for signs of deer and wild turkeys. Huge maples can be found in the sugar grove.",
+			"images": [ "2.jpg" ]
+
+		},
+		{
+			"id": 3,
+			"name": "Ridge Run",
+			"address": "7000 N. Westnedge Avenue",
+			"length": "0.7",
+			"is_loop": false,
+			"difficulty": "Moderate",
+			"description": "Hike through woodlands, pine plantations, and old meadows. Includes a short, steep climb.",
+			"images": [ "3.jpg" ]
+
+		},
+		{
+			"id": 4,
+			"name": "Habitat Haven",
+			"address": "7000 N. Westnedge Avenue",
+			"length": "0.7",
+			"is_loop": true,
+			"difficulty": "Easy",
+			"description": "Hike through pond, fen, stream, and forest habitats with a spur trail into the middle of the fen.",
+			"images": [ "4.jpg" ]
+
+		},
+		{
+			"id": 5,
+			"name": "Beech Maple",
+			"address": "7000 N. Westnedge Avenue",
+			"length": "0.7",
+			"is_loop": true,
+			"difficulty": "Moderate",
+			"description": "Hike through an old growth beech-maple forest along a stream. Spring wildflowers bloom abundantly and owls can be heard.",
+			"images": [ "5.jpg" ]
+
+		},
+		{
+			"id": 6,
+			"name": "River Walk",
+			"address": "7000 N. Westnedge Avenue",
+			"length": "0.2",
+			"is_loop": false,
+			"difficulty": "Easy",
+			"description": "Follow Trout Run to where it empties into the Kalamazoo River. Discover aquatic life in the stream or watch birds along the river.",
+			"images": [ "6.jpg" ]
+
+		},
+		{
+			"id": 7,
+			"name": "Cooper's Overlook",
+			"address": "7000 N. Westnedge Avenue",
+			"length": "0.2",
+			"is_loop": false,
+			"difficulty": "Moderate",
+			"description": "Hike along a ridge overlooking Trout Run Stream. Find many wildflowers in the spring and colorful foliage in the fall.",
+			"images": [ "7.jpg" ]
+
+		},
+		{
+			"id": 8,
+			"name": "Raptor Ridge",
+			"address": "7000 N. Westnedge Avenue",
+			"length": "0.2",
+			"is_loop": true,
+			"difficulty": "Difficult",
+			"description": "Climb to one of the highest points in the county for views of the Kalamazoo River valley. Examine rocks in the old gravel pit.",
+			"images": [ "8.jpg" ]
+
+		},
+		{
+			"id": 9,
+			"name": "Bluebird",
+			"address": "7000 North Westnedge Avenue",
+			"length": "2.7",
+			"is_loop": true,
+			"difficulty": "Difficult",
+			"description": "Trek to the southern border of KNC through the 140-acre prairie, into the forest, and back through the gravel pit.",
+			"images": [ "9.jpg" ]
+
+		},
+		{
+			"id": 10,
+			"name": "Pioneer Woods",
+			"address": "555 West E Avenue",
+			"length": "0.6",
+			"is_loop": false,
+			"difficulty": "Moderate",
+			"description": "Take a tour into the past and visit the DeLano Homestead, the pioneer log cabin, and the sugar shack (buildings open for special events).",
+			"images": [ "10.jpg" ]
+
+		},
+		{
+			"id": 11,
+			"name": "Wilderness Trails",
+			"address": "555 West E Avenue",
+			"length": "0.3",
+			"is_loop": false,
+			"difficulty": "Easy",
+			"description": "A mowed grass trail running past the farmyard and into the woods. Look for animals near the small streams along the trail.",
+			"images": [ "11.jpg" ]
+
+		},
+		{
+			"id": 12,
+			"name": "Source Pond",
+			"address": "555 West E Avenue",
+			"length": "0.9",
+			"is_loop": false,
+			"difficulty": "Moderate",
+			"description": "Walk through farm fields and forest to the pristine Source Pond. Look for pileated woodpeckers, turtles, and other wildlife.",
+			"images": [ "12.jpg" ]
+
+		},
+		{
+			"id": 13,
+			"name": "Green Heron Ravine",
+			"address": "555 West E Avenue",
+			"length": "0.5",
+			"is_loop": false,
+			"difficulty": "Moderate",
+			"description": "Hike through a young forest and past small ponds to a tunnel under North Westnedge Avenue.",
+			"images": [ "13.jpg" ]
+
+		},
+		{
+			"id": 14,
+			"name": "Trout Run",
+			"address": "555 West E Avenue",
+			"length": "0.8",
+			"is_loop": false,
+			"difficulty": "Moderate",
+			"description": "Walk in a mature forest overlooking Trout Run Stream. A cattail marsh borders the stream.",
+			"images": [ "14.jpg" ]
+
+		},
+		{
+			"id": 15,
+			"name": "Headwaters",
+			"address": "555 West E Avenue",
+			"length": "1.0",
+			"is_loop": true,
+			"difficulty": "Difficult",
+			"description": "This challenging trail heads through towering tulip trees and successional saplings along the edge of the Trout Run watershed.",
+			"images": [ "15.jpg" ]
+
+		}
+	]
+}

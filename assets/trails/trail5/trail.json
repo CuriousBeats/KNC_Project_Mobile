@@ -1,0 +1,21 @@
+{
+	"trailStops": [
+		{
+			"id": 0,
+			"name": "A Juggling Act",
+			"description": "When it comes to foodplains, the needs of humans and the environment are sometimes in conflict.",
+			"images": [ "flood.jpg" ],
+			"audio": "",
+			"is_audio": false
+		},
+		{
+			"id": 1,
+			"name": "Have You Used Water Today",
+			"description": "We live in a watershed. A watershed is the area that drains into a common waterway, like Trout Run or the Kalamazoo River.",
+			"images": [ "watershed.jpg" ],
+			"audio": "",
+			"is_audio": false
+		}
+
+	]
+}

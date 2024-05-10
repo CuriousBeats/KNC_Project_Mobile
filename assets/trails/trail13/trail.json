@@ -1,0 +1,12 @@
+{
+	"trailStops": [
+		{
+			"id": 0,
+			"name": "Restoring Wetlands",
+			"description": "Wetlands support a diverse community of plants that provide food and shelter for a variety of animals. Thanks to a Great Lakes Restoration Initiative grant from the Environmental Protection Agency, the Kalamazoo Nature Center's Conservation Stewardship department was able to team with several partners to improve wetland and upland habitat on 1,500 acres in the Kalamazoo and Thornapple River Watersheds. The grant funded practices such as prescribed fire and removal of invasive plants (buckthorn and autumn olive shrubs, and hybrid cattails) that encourage the native plants to flourish. The focus of this work was on a special type of spring-fed wetland called a prairie fen. Fens are home to some of the richest biological diversity in Michigan, and host many rare species including Mitchell's satyr butterflies, Eastern Massasauga rattlesnakes, and Eastern box turtles.",
+			"images": [ "wetlands.jpg" ],
+			"audio": "",
+			"is_audio": false
+		}
+	]
+}

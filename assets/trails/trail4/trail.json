@@ -1,0 +1,61 @@
+{
+	"trailStops": [
+		{
+			"id": 0,
+			"name": "Beaver",
+			"description": "The American beaver, common in wetlands, is one of the few animals that can powerfully affect the ecosystem around it. \n\nHabitat Haven's fen is fed by calcium-rich groundwater and relies on regular disturbances, like fire, maintain its unique character. \n\nSeemingly small changes, like fewer fires or more beaver activity, can shift this delicate balance, alter water cycles, and change the survival of many different species.",
+			"images": [ "beaver.jpg" ],
+			"audio": "",
+			"is_audio": false
+		},
+		{
+			"id": 1,
+			"name": "Great Blue Heron",
+			"description": "Easily recognized, the great blue heron is a common migratory bird in a variety of Michigan wetlands. \n\nGreat blue herons are important predators, eating a variety of fish, reptiles, amphibians, invertebrates, birds, and small mammals. \n\nThis species has a widespread range and is very adaptable, but its breeding colonies may be vulnerable as habitat is lost to development.",
+			"images": [ "heron.jpg" ],
+			"audio": "",
+			"is_audio": false
+		},
+		{
+			"id": 2,
+			"name": "Decomposing Trees",
+			"description": "Decomposing trees are important to a forest ecosystem. They provide food and shelter to woodland creatures and enrich the soil as they break down.",
+			"images": [ "decompose.jpg" ],
+			"audio": "",
+			"is_audio": false
+		},
+		{
+			"id": 3,
+			"name": "Everything is Connected to Everything",
+			"description": "Nothing is wasted in healthy ecosystem. All plants and animals are possible food for other creatures. \n\nWhen these plants and animals die they are eaten by decomposers and their nutrients help rebuild soil.",
+			"images": [ "cycle.jpg" ],
+			"audio": "",
+			"is_audio": false
+		},
+		{
+			"id": 4,
+			"name": "Michigan Lily",
+			"description": "The Michigan lily is a striking perennial, commonly found in open, moist habitats, such as fens, prairies, or streambanks. \n\nThis showy, orange-flowered species is often found in higher quality natural areas and readily attracts hummingbirds and swallowtail butterflies. \n\nThe plant is al popular native species commonly cultivated as an ornamental and used in backyard pollinator gardens.",
+			"images": [ "lily.jpg" ],
+			"audio": "",
+			"is_audio": false
+		},
+		{
+			"id": 5,
+			"name": "Brook Trout",
+			"description": "The brook trout, Michigan's state fish, thrives in cold, clean waters and aggressively feeds on insects, fish, crustaceans, and worms. \n\nEarlier restoration activities for this species improved the flow and health of Trout Run watershed, which runs entirely within the borders of KNC's land. \n\nMaintaining connectivity between streams and other waterways is critical to the health and survival of native fish populations.",
+			"images": [ "trout.jpg" ],
+			"audio": "",
+			"is_audio": false
+		},
+		{
+			"id": 6,
+			"name": "Forest Music",
+			"description": "",
+			"images": [ "forest_music.jpg" ],
+			"audio": "forest_music.wav",
+			"is_audio": true
+		}
+
+	]
+}

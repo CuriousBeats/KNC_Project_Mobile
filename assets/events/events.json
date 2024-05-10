@@ -1,0 +1,138 @@
+{
+    "events": [
+        {
+            "id": 0,
+            "title": "Nature's Way Preschool Open House",
+            "day": "01",
+            "month": "February",
+            "year": "2024",
+            "startTime": "4:30 PM",
+            "endTime": "6:30 PM",
+            "location": "Nature's Way Preschool, Kalamazoo, MI",
+            "images": [ "0.jpg" ]
+        },
+        {
+            "id": 1,
+            "title": "After School Animals: Peregrine Falcon",
+            "day": "06",
+            "month": "February",
+            "year": "2024",
+            "startTime": "4:30 PM",
+            "endTime": "5:30 PM",
+            "location": "Kalamazoo Nature Center",
+            "images": [ "1.jpg" ]
+        },
+        {
+            "id": 2,
+            "title": "Preschool Explorers",
+            "day": "13",
+            "month": "February",
+            "year": "2024",
+            "startTime": "10:00 AM",
+            "endTime": "11:00 AM",
+            "location": "Kalamazoo Nature Center",
+            "images": [ "2.jpg" ]
+        },
+        {
+            "id": 3,
+            "title": "Know Your Nature Series: Winter Feeder Count",
+            "day": "15",
+            "month": "February",
+            "year": "2024",
+            "startTime": "4:30 PM",
+            "endTime": "6:00 PM",
+            "location": "Kalamazoo Nature Center",
+            "images": [ "3.jpg" ]
+        },
+        {
+            "id": 4,
+            "title": "Candlelight Night Hike",
+            "day": "16",
+            "month": "February",
+            "year": "2024",
+            "startTime": "6:00 PM",
+            "endTime": "8:30 PM",
+            "location": "Kalamazoo Nature Center",
+            "images": [ "4.jpg" ]
+        },
+        {
+            "id": 5,
+            "title": "Returning & Reskilling: Woodworking with Hand Tools",
+            "day": "24",
+            "month": "February",
+            "year": "2024",
+            "startTime": "10:00 AM",
+            "endTime": "11:30 AM",
+            "location": "Kalamazoo Nature Center",
+            "images": [ "5.jpg" ]
+        },
+        {
+            "id": 6,
+            "title": "Maple Sugar Festival",
+            "day": "09",
+            "month": "March",
+            "year": "2024",
+            "startTime": "9:00 AM",
+            "endTime": "5:00 PM",
+            "location": "Kalamazoo Nature Center",
+            "images": [ "6.jpg" ]
+        
+        },
+        {
+            "id": 7,
+            "title": "Preschool Explorers",
+            "day": "12",
+            "month": "March",
+            "year": "2024",
+            "startTime": "10:00 AM",
+            "endTime": "11:00 AM",
+            "location": "Kalamazoo Nature Center",
+            "images": [ "7.jpg" ]
+        
+        },
+        {
+            "id": 8,
+            "title": "Raptor Run for Kids",
+            "day": "27",
+            "month": "April",
+            "year": "2024",
+            "startTime": "9:00 AM",
+            "endTime": "10:00 AM",
+            "location": "Kalamazoo Nature Center",
+            "images": [ "8.jpg" ]
+        },
+        {
+            "id": 9,
+            "title": "Raptor Run 5K",
+            "day": "27",
+            "month": "February",
+            "year": "2024",
+            "startTime": "10:00 AM",
+            "endTime": "11:00 AM",
+            "location": "Kalamazoo Nature Center",
+            "images": [ "9.jpg" ]
+        },
+        {
+            "id": 10,
+            "title": "Camp Open House",
+            "day": "08",
+            "month": "June",
+            "year": "2024",
+            "startTime": "10:30 AM",
+            "endTime": "11:30 AM",
+            "location": "Kalamazoo Nature Center",
+            "images": [ "10.jpg" ]
+        },
+        {
+            "id": 11,
+            "title": "Robin Wall Kimmerer",
+            "day": "12",
+            "month": "July",
+            "year": "2024",
+            "startTime": "6:00 PM",
+            "endTime": "8:00 PM",
+            "location": "Kalamazoo Nature Center",
+            "images": [ "11.jpg" ]
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+	"trailStops": [
+		{
+			"id": 0,
+			"name": "Glaciers to Gravel and Beyond",
+			"description": "Experience this landscape shaped by the past and saved for the future.",
+			"images": [ "glacier.jpg" ],
+			"audio": "",
+			"is_audio": false
+		}
+	]
+}

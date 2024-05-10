@@ -1,0 +1,40 @@
+{
+    "announcements": [
+      {
+        "id": 0,
+        "title": "Maple Sugar Festival",
+        "subtitle1": "Saturday, March 9, 2024",
+        "subtitle2": "",
+        "description": "Celebrate the maple sugaring season at KNC's 59th annual Maple Sugar Festival. Tickets are on sale now with early bird discounts!",
+        "images": [ "0.jpg" ]
+
+      },
+      {
+        "id": 1,
+        "title": "Summer Camp Early Bird Registration",
+        "subtitle1": "Early Bird Registration now open!",
+        "subtitle2": "",
+        "description": "KNC Campers enjoy weekly themes, take on new adventures, make new friends, and learn to have a positive impact on the natural world.",
+        "images": [ "1.jpg" ]
+
+      },
+      {
+        "id": 2,
+        "title": "Save the Date!",
+        "subtitle1": "Roots of Wisdom Opens March 23",
+        "subtitle2": "Robin Wall Kimmerer at Chenery Auditorium July 12",
+        "description": "Mark your calendars for this highly-anticipated exhibit and Terry Todd International Speaker Series event.",
+        "images": [ "2.jpg" ]
+
+      },
+      {
+        "id": 3,
+        "title": "Sponsor a KNC Event in 2024",
+        "subtitle1": "",
+        "subtitle2": "",
+        "description": "Whether your business operates locally, nationally, or globally, a sponsorship places you in front of our 5,600+ membership base and the greater Kalamazoo community.",
+        "images": [ "3.jpg" ]
+
+      }
+    ]
+}

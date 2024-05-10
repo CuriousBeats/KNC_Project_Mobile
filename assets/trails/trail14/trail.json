@@ -1,0 +1,12 @@
+{
+	"trailStops": [
+		{
+			"id": 0,
+			"name": "Great Lakes Restoration Initiative",
+			"description": "This project is funded through the Great Lakes Restoration Initiative in joint effort with the U.S. Environmental Protection Agency and federal agencies to protect and restore the Great Lakes.",
+			"images": [ "superior.jpg" ],
+			"audio": "",
+			"is_audio": false
+		}
+	]
+}

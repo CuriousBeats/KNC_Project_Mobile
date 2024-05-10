@@ -1,0 +1,18 @@
+{
+    "contacts": [
+        {
+            "id": 0,
+            "name": "Kalamazoo Nature Center",
+            "position": "General Contact",
+            "phone": "(269)381-1574",
+            "email": "contact@naturecenter.org"
+        },
+        {
+            "id": 1,
+            "name": "Becca DeLong",
+            "position": "Member Engagement Coordinator",
+            "phone": "(269)381-1574 x32",
+            "email": "bdelong@naturecenter.org"
+        }
+    ]
+}

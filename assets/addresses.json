@@ -1,0 +1,12 @@
+{
+    "addresses": [
+        {
+            "id": 0,
+            "name": "Kalamazoo Nature Center",
+            "street": "7000 N. Westnedge Ave.",
+            "city": "Kalamazoo",
+            "state": "MI",
+            "zip": "49009"
+        }
+    ]
+}
